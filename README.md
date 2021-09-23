@@ -6,3 +6,6 @@ This is a simple 'Bank' i programmed , it the intention of connecting to it on m
 
 Recently added a GUI to the Bank.py , you can use both the Terminal interface and the GUI on the same DataBase.
 Even tho the GUI is in portuguese, its extremly simple to use, since i didnt add mutch to the app since it took not mutch than a hour to finish.
+
+
+[img] (Screenshot from 2021-09-23 23-13-03.png)
