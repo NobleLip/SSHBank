@@ -8,4 +8,4 @@ Recently added a GUI to the Bank.py , you can use both the Terminal interface an
 Even tho the GUI is in portuguese, its extremly simple to use, since i didnt add mutch to the app since it took not mutch than a hour to finish.
 
 
-[img] (img.png)
+![img](img.png)
